@@ -18,7 +18,7 @@ body{
 }
 
 .testimonials{
-    max-width:1440px;
+    width:1300px;;
     margin: 100px auto;
     padding:20px;
     display: grid;
